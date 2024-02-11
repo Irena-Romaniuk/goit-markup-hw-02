@@ -97,7 +97,7 @@ ul {
 }
 .hero-order-btn:hover,
 .hero-order-btn:focus {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 
 /*! -----------------------HERO CLOSE-------------------------- */
@@ -141,9 +141,9 @@ ul {
   text-transform: capitalize;
 }
 .team-list {
-  background-color: #ffffff;
 }
 .team-item {
+  background-color: #ffffff;
 }
 .team-subtitle {
   color: #2e2f42;
