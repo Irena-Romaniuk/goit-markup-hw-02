@@ -25,11 +25,9 @@
 .header-list-item {
 }
 
-a:hover,
-a:focus {
-  color: #404bbf;
-}
-a:active {
+.header-list-item:hover,
+.header-list-item:focus,
+.header-list-item:active {
   color: #404bbf;
 }
 
