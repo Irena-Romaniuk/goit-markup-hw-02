@@ -25,11 +25,11 @@
 .header-list-item {
 }
 
-.header-list-item:hover,
-.header-list-item:focus {
+a:hover,
+a:focus {
   color: #404bbf;
 }
-.header-list-item:active {
+a:active {
   color: #404bbf;
 }
 
@@ -39,9 +39,4 @@
 .header-contacts-list {
 }
 .header-contacts-item {
-}
-
-.header-contacts-item:hover,
-.header-contacts-item:focus {
-  color: #404bbf;
 }
