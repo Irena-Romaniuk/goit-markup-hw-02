@@ -25,15 +25,22 @@
 .header-list-item {
 }
 
-.header-list-item:hover,
-.header-list-item:focus,
-.header-list-item:active {
+.header-nav a:hover,
+.header-nav a:focus {
+  color: #404bbf;
+}
+.header-nav a:active {
   color: #404bbf;
 }
 
 .header-contacts {
   color: #434455;
 }
+.header-contacts a:hover,
+.header-contacts a:focus {
+  color: #404bbf;
+}
+
 .header-contacts-list {
 }
 .header-contacts-item {
