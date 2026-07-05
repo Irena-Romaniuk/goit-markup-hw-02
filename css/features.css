@@ -1,0 +1,18 @@
+.features {
+}
+.features-title {
+}
+.features-list {
+}
+.features-list-item {
+}
+.features-item-title {
+  font-weight: 500;
+  font-size: 20px;
+
+  /* line-height: 24px; */
+  line-height: 1.2;
+}
+.features-item-text {
+  color: #434455;
+}

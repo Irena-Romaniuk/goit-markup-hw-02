@@ -1,0 +1,47 @@
+.header {
+}
+.header.logo {
+  font-family: Raleway, sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+
+  /* line-height: 24px; */
+  line-height: 1.33333;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+.logo-web {
+  color: #4d5ae5;
+}
+.header-nav {
+  font-weight: 500;
+
+  /* line-height: 24px; */
+  letter-spacing: 0.02em;
+}
+
+.header-list {
+}
+.header-list-item {
+}
+
+.header-list-item:hover,
+.header-list-item:focus {
+  color: #404bbf;
+}
+.header-list-item:active {
+  color: #404bbf;
+}
+
+.header-contacts {
+  color: #434455;
+}
+.header-contacts-list {
+}
+.header-contacts-item {
+}
+
+.header-contacts-item:hover,
+.header-contacts-item:focus {
+  color: #404bbf;
+}
